@@ -17,7 +17,7 @@ A full stack web developer is a person who can develop both client and server so
 Languages and Tools:
 ---------
 
-<p align="left">
+<p>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
