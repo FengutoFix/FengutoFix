@@ -133,7 +133,6 @@ Languages and Tools:
     ><img align="left"
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
       width="30px"
-      style="padding-right: 10px"
       alt="Figma"
   /></a>
 </p>
