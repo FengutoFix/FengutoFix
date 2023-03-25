@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76F2E&center=true&vCenter=true&width=435&lines=+Welcome+to+My+Github+Profile+;Have+a+passion+for+coding;Creativity;Inspiration;For+Entertainment+Only" alt="Typing SVG" />
 </p>
 
-Web Developer
+Full Stack Developer
 ---------
 
 A full stack web developer is a person who can develop both client and server software.
