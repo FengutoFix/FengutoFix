@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, Welcome to my Github profile <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76F2E&center=true&vCenter=true&width=435&lines=+Welcome+to+My+Github+Profile+;Have+a+passion+for+coding;Creativity;Inspiration;For+Entertainment+Only" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C0C&center=true&vCenter=true&width=435&lines=Hi+there%2C+Welcome+to+My+Github;Built+for+Creative+hobby;For+Development+and+Inspiration;Made+for+seriousness+and+fun" alt="Typing SVG" />
 </p>
 
 Full Stack Developer
