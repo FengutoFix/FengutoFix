@@ -7,7 +7,7 @@
 Full Stack Developer
 ---------
 
-A full stack web developer is a person who can develop both client and server software.
+A full stack web developer is a person who can develop client and server software. Always with sincerity and determination
 
 * 😈  Working together, you must be sincere in your words.
 * 🤔  Ask me how cool I am
